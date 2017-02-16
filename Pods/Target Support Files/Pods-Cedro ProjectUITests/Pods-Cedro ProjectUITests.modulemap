@@ -1,0 +1,6 @@
+framework module Pods_Cedro_ProjectUITests {
+  umbrella header "Pods-Cedro ProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
